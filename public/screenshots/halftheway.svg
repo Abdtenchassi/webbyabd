@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#FFF1F2"/>
+  <!-- Nav -->
+  <rect width="800" height="50" fill="#fff" opacity="0.9"/>
+  <rect x="24" y="14" width="90" height="22" rx="4" fill="#BE185D" opacity="0.15"/>
+  <text x="69" y="29" font-family="system-ui" font-size="12" font-weight="bold" fill="#BE185D" text-anchor="middle">Half the Way</text>
+  <circle cx="740" cy="25" r="14" fill="#BE185D" opacity="0.1"/>
+  <text x="740" y="29" font-family="system-ui" font-size="10" fill="#BE185D" text-anchor="middle">0</text>
+  <!-- Hero -->
+  <rect x="40" y="70" width="360" height="180" rx="16" fill="#fff" stroke="#FCE7F3" stroke-width="1"/>
+  <text x="60" y="100" font-family="system-ui" font-size="10" fill="#F472B6">Baby &amp; Infant Collection</text>
+  <text x="60" y="130" font-family="system-ui" font-size="22" font-weight="bold" fill="#1C1917">Dress Your</text>
+  <text x="60" y="156" font-family="system-ui" font-size="22" font-weight="bold" fill="#1C1917">Little One</text>
+  <text x="60" y="182" font-family="system-ui" font-size="22" font-weight="bold" fill="#BE185D" font-style="italic">Halfway</text>
+  <text x="60" y="208" font-family="system-ui" font-size="22" font-weight="bold" fill="#1C1917">to Their First Year</text>
+  <rect x="60" y="222" width="100" height="30" rx="6" fill="#BE185D"/>
+  <text x="110" y="241" font-family="system-ui" font-size="11" font-weight="600" fill="#fff" text-anchor="middle">Shop Now</text>
+  <!-- Hero image placeholder -->
+  <rect x="430" y="70" width="330" height="180" rx="16" fill="#FCE7F3"/>
+  <circle cx="595" cy="140" r="40" fill="#FBCFE8"/>
+  <circle cx="595" cy="140" r="20" fill="#F9A8D4"/>
+  <!-- Categories -->
+  <text x="400" y="290" font-family="system-ui" font-size="18" font-weight="bold" fill="#1C1917" text-anchor="middle">Shop by Category</text>
+  <text x="400" y="310" font-family="system-ui" font-size="11" fill="#A8A29E" text-anchor="middle">Find exactly what your little one needs</text>
+  <!-- Category cards -->
+  <rect x="40" y="330" width="140" height="150" rx="12" fill="#fff" stroke="#FCE7F3" stroke-width="1"/>
+  <rect x="56" y="346" width="108" height="80" rx="8" fill="#FDF2F8"/>
+  <text x="110" y="446" font-family="system-ui" font-size="12" font-weight="600" fill="#1C1917" text-anchor="middle">Hats</text>
+  <text x="110" y="462" font-family="system-ui" font-size="9" fill="#A8A29E" text-anchor="middle">Beanies, Caps &amp; More</text>
+  <rect x="200" y="330" width="140" height="150" rx="12" fill="#fff" stroke="#FCE7F3" stroke-width="1"/>
+  <rect x="216" y="346" width="108" height="80" rx="8" fill="#FDF2F8"/>
+  <text x="270" y="446" font-family="system-ui" font-size="12" font-weight="600" fill="#1C1917" text-anchor="middle">Outfits</text>
+  <text x="270" y="462" font-family="system-ui" font-size="9" fill="#A8A29E" text-anchor="middle">Sets &amp; Onesies</text>
+  <rect x="360" y="330" width="140" height="150" rx="12" fill="#fff" stroke="#FCE7F3" stroke-width="1"/>
+  <rect x="376" y="346" width="108" height="80" rx="8" fill="#FDF2F8"/>
+  <text x="430" y="446" font-family="system-ui" font-size="12" font-weight="600" fill="#1C1917" text-anchor="middle">Overall</text>
+  <text x="430" y="462" font-family="system-ui" font-size="9" fill="#A8A29E" text-anchor="middle">Rompers &amp; Overalls</text>
+  <rect x="520" y="330" width="140" height="150" rx="12" fill="#fff" stroke="#FCE7F3" stroke-width="1"/>
+  <rect x="536" y="346" width="108" height="80" rx="8" fill="#FDF2F8"/>
+  <text x="590" y="446" font-family="system-ui" font-size="12" font-weight="600" fill="#1C1917" text-anchor="middle">Shoes</text>
+  <text x="590" y="462" font-family="system-ui" font-size="9" fill="#A8A29E" text-anchor="middle">Booties &amp; First Steps</text>
+  <rect x="680" y="330" width="100" height="150" rx="12" fill="#fff" stroke="#FCE7F3" stroke-width="1"/>
+  <rect x="690" y="346" width="80" height="80" rx="8" fill="#FDF2F8"/>
+  <text x="730" y="446" font-family="system-ui" font-size="10" font-weight="600" fill="#1C1917" text-anchor="middle">6-Month</text>
+</svg>

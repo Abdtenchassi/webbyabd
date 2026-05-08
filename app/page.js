@@ -27,7 +27,7 @@ const PORTFOLIO = [
   { name: 'Lens.lb', type: 'Photography Marketplace', url: 'https://lebnslb.onrender.com', screenshot: '/screenshots/lenslb.png', tags: ['Marketplace','Booking'] },
   { name: 'Noonphotoo', type: 'Photography Booking', url: 'https://noonphotoo.onrender.com', screenshot: '/screenshots/noonphotoo.png', tags: ['Booking','Studio'] },
   { name: 'Half the Way', type: 'Baby E-Commerce', url: 'https://halftheway.onrender.com', screenshot: '/screenshots/halftheway.png', tags: ['E-Commerce','Cart'] },
-  { name: 'Event by Tofik', type: 'Event Planning', url: 'https://eventbytofik.onrender.com', screenshot: '/screenshots/eventbytofik.png', tags: ['Events','Reservation'] },
+  { name: 'CFC', type: 'Restaurant Ordering', url: 'https://cfc-website-1jxt.onrender.com', screenshot: '/screenshots/cfc.png', tags: ['Restaurant','Ordering'] },
 ];
 
 const STEPS = [
